@@ -1,0 +1,10 @@
+LINE Seed JP: https://github.com/line/seed
+Official web subset distribution: https://fonts.googleapis.com/css2?family=LINE+Seed+JP:wght@400;700&display=swap
+License: LINESeedJP-OFL.txt (SIL Open Font License 1.1)
+Cyrillic and Latin subsets retained; original font data was not modified.
+
+Inter 4.1 variable: https://rsms.me/inter/font-files/InterVariable.woff2
+Source: https://github.com/rsms/inter
+License: Inter-OFL.txt (SIL Open Font License 1.1)
+
+Retrieved 2026-11-09. All runtime fonts are self-hosted.
