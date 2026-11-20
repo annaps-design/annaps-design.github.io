@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="8" fill="#18150F"/>
-  <text x="16" y="21" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FAF9F6" text-anchor="middle">AP</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44"><title>АП — Анна Павленко</title><circle cx="22" cy="22" r="22" fill="#051a24"/><g fill="#fff"><path transform="translate(10.408 27.152) scale(0.014 -0.014)" d="M36 -32Q28 -32 24.5 -27.5Q21 -23 24 -16L340 758Q343 768 356 768L459 768Q471 768 475 758L791 -16Q796 -32 780 -32L650 -32Q637 -32 633 -21L573 139L239 139L179 -21Q175 -32 162 -32ZM405 588L283 262L528 262Z"/><path transform="translate(21.817999999999998 27.152) scale(0.014 -0.014)" d="M740 768Q754 768 754 753L754 -18Q754 -32 740 -32L622 -32Q607 -32 607 -18L607 639L235 639L235 -18Q235 -32 220 -32L102 -32Q87 -32 87 -18L87 753Q87 768 102 768Z"/></g></svg>
